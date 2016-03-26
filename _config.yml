@@ -1,0 +1,28 @@
+name: somosmolai
+favicon: null
+layout_spectrum: 0.26619685045443475
+typography_spectrum: 0.6695105717517436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.33651124802418053
+  lightness: 0.3166192411445081
+  saturation: 0.4737757232505828
+  rhythmicContrast: 0.16276187333278358
+purpose: []
