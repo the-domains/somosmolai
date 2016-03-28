@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Since the 1970s Majuli islander,\_Jadav \"Molai\" Payeng\_has been planting trees in order to save\_his island. To date he has single handedly planted a forest larger than Central Park NYC. His forest has transformed what was once a barren wasteland, into a lush oasis.Humble yet passionate and philosophical about his work. Payeng takes us on a journey into his incredible forest. Forestman"
-datePublished: '2016-03-28T16:37:23.836Z'
-dateModified: '2016-03-28T16:37:11.266Z'
+description: "Since the 1970s Majuli, India islander,\_Jadav \"Molai\" Payeng\_has been planting trees in order to save\_his island. \_To date he has single handedly planted a forest larger than Central Park NYC, USA. \_His forest has transformed what was once a barren wasteland, into a lush oasis. \_Humble yet passionate and philosophical about his work. Payeng takes us on a journey into his incredible forest. Forestman"
+datePublished: '2016-03-28T16:40:40.550Z'
+dateModified: '2016-03-28T16:37:34.566Z'
 title: Forestman
 author: []
 sourcePath: _posts/2016-03-28-since-the-1970s-majuli-islander-jadav-payeng-has-been-plant.md
