@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=HkZDSqyE1do&list=PLce_OBonExnD-012p1G8HkoZeR_jKywcy'
 inLanguage: null
 starred: false
 keywords: []
 description: "Since the 1970s Majuli, India islander,\_Jadav “Molai” Payeng\_has been planting trees in order to save\_his island. \_To date he has single handedly planted a forest larger than Central Park NYC, USA. \_His forest has transformed what was once a barren wasteland, into a lush oasis. \_Humble yet passionate and philosophical about his work. Payeng takes us on a journey into his incredible forest. Forestman"
-datePublished: '2016-03-28T17:54:27.591Z'
-dateModified: '2016-03-28T17:54:21.664Z'
+datePublished: '2016-03-28T17:56:33.927Z'
+dateModified: '2016-03-28T17:56:27.074Z'
 title: Forestman
 author: []
 sourcePath: _posts/2016-03-28-since-the-1970s-majuli-islander-jadav-payeng-has-been-plant.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: since-the-1970s-majuli-islander-jadav-payeng-has-been-plant/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ## Forestman, Jadav "Molai" Payeng -- a film by William D McMaster
