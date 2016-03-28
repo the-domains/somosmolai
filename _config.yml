@@ -1,7 +1,7 @@
-name: somosmolai
+name: somos molai
 favicon: null
-layout_spectrum: 0.26619685045443475
-typography_spectrum: 0.6695105717517436
+layout_spectrum: 0.74964
+typography_spectrum: 0.24788
 title: somos molai
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.33651124802418053
-  lightness: 0.3166192411445081
+    - '#061201'
+    - '#153102'
+    - '#115200'
+    - '#2f5367'
+    - '#4b756a'
+  brandStrength: 0.5
+  lightness: 0.8125
   saturation: 0.4737757232505828
-  rhythmicContrast: 0.16276187333278358
+  rhythmicContrast: 0
 purpose: []
