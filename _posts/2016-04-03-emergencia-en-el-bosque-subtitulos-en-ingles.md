@@ -1,17 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=2rkxi1BVZM8'
+inLanguage: es
+starred: false
+keywords: []
+description: Uploaded by Camilo de Castro Belli on 2016-03-24.
+datePublished: '2016-04-03T21:17:54.230Z'
+dateModified: '2016-04-03T20:15:32.224Z'
 author:
   - name: Camilo de Castro Belli
     url: 'https://www.youtube.com/user/camilobelli'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords: []
-description: Uploaded by Camilo de Castro Belli on 2016-03-24.
-inLanguage: es
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=2rkxi1BVZM8&feature=applinks'
     type: ios
@@ -49,15 +51,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=2rkxi1BVZM8'
 title: Emergencia en el Bosque (Subtítulos en inglés)
-datePublished: '2016-04-03T20:09:17.703Z'
-dateModified: '2016-04-01T23:43:30.678Z'
 sourcePath: _posts/2016-04-03-emergencia-en-el-bosque-subtitulos-en-ingles.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
