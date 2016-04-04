@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-03T23:09:57.616Z'
-dateModified: '2016-04-03T23:09:36.930Z'
+description: 'The "Somos Molai" story begins now, here in Nicaragua, in the department of Granada. Most of us realize that the climate of the planet is warming and that dramatic and necessary changes are required now, through international agreements and commitments but, there are actions that each of us must take immediately. Our forests in Nicaragua are disappearing at a dramatic rate, and their loss has an immediate affect on our climate, our water, and our lives. Our project, "Somos Molai” has been inspired by the work of one man who began by planting a tree in 1979, and through his continuous efforts has created a forest in a place, once desolate. And so, while the world debates who should do what, when and first, we will act, as Jadav "Molai” Payeng, and begin to rebuild our forest, now.'
+datePublished: '2016-04-04T00:36:35.410Z'
+dateModified: '2016-04-03T23:09:59.833Z'
 title: Somos Molai
 author: []
+sourcePath: _posts/2016-04-03-somos-molai.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-somos-molai.md
-published: true
 url: somos-molai/index.html
 _type: Article
 
