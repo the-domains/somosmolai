@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Creating reforestation opportunities in the area between Managua and Granada Nicaragua in cooperation with private land owners. Inspired by Jadav “Molai” Payeng
-datePublished: '2016-04-04T05:23:33.060Z'
-dateModified: '2016-04-04T01:53:16.822Z'
+datePublished: '2016-04-04T05:30:36.247Z'
+dateModified: '2016-04-04T05:30:18.069Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-03-creating-reforestation-opportunities-in-the-area-between-man.md
@@ -22,6 +22,8 @@ publisher:
 _type: Blurb
 
 ---
-## Mission
+## [Mission][0]
 
 Creating reforestation opportunities in the area between Managua and Granada Nicaragua in cooperation with private land owners. Inspired by Jadav "Molai" Payeng
+
+[0]: null
