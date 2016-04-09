@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: La Fundación Nicaragüense para el Desarrollo Económico y Social (FUNIDES) presenta el porqué se está dando la deforestación en Nicaragua y cuáles son las acciones que se deben tomar para reducirla.
-datePublished: '2016-04-09T22:23:36.638Z'
-dateModified: '2016-04-09T22:19:44.343Z'
-title: ¿Por qué se deforesta en Nicaragua? Acciones para reducirla
+description: www.funides.com
+datePublished: '2016-04-09T22:40:38.499Z'
+dateModified: '2016-04-09T22:23:46.040Z'
+title: ''
 author: []
 authors: []
 publisher:
@@ -22,7 +22,7 @@ url: por-que-se-deforesta-en-nicaragua-acciones-para-reducirla/index.html
 _type: Article
 
 ---
-# ¿Por qué se deforesta en Nicaragua? Acciones para reducirla
+## ¿Por qué se deforesta en Nicaragua? Acciones para reducirla
 
 La Fundación Nicaragüense para el Desarrollo Económico y Social (FUNIDES) presenta el porqué se está dando la deforestación en Nicaragua y cuáles son las acciones que se deben tomar para reducirla.
 
